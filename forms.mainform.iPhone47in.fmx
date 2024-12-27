@@ -1,0 +1,104 @@
+inherited MainForm_iPhone47in: TMainForm_iPhone47in
+  ClientHeight = 667
+  ClientWidth = 375
+  DesignerMasterStyle = 0
+  inherited MainTabControl: TTabControl
+    Size.Width = 375.000000000000000000
+    Size.Height = 667.000000000000000000
+    Sizes = (
+      375s
+      667s
+      375s
+      667s)
+    inherited MainTab: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited TopPanel: TPanel
+        Size.Width = 375.000000000000000000
+        inherited TopRectangle2: TRectangle
+          Size.Width = 375.000000000000000000
+          inherited ShazamForFoodLabel: TSkLabel
+            Size.Width = 375.000000000000000000
+          end
+        end
+        inherited TopRectangle1: TRectangle
+          Size.Width = 375.000000000000000000
+          inherited TopLabell1: TSkLabel
+            Size.Width = 375.000000000000000000
+          end
+        end
+      end
+      inherited BackgroundRectangle: TRectangle
+        Size.Width = 375.000000000000000000
+        Size.Height = 554.000000000000000000
+        inherited CameraOnButton: TCircle
+          Position.X = 150.000000000000000000
+          Position.Y = 394.000000000000000000
+        end
+        inherited Rectangle1: TRectangle
+          Position.Y = 477.000000000000000000
+          Size.Width = 375.000000000000000000
+          inherited TouchToSeefoodLabel: TSkLabel
+            Size.Width = 375.000000000000000000
+          end
+        end
+      end
+    end
+    inherited RekognitionTab: TTabItem
+      Size.Width = 11.000000000000000000
+      Size.Height = 11.000000000000000000
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited RekognitionRectangle: TRectangle
+        Size.Width = 375.000000000000000000
+        Size.Height = 667.000000000000000000
+        inherited RekognitionImage: TImage
+          MultiResBitmap.Height = 2870
+          MultiResBitmap.Width = 2873
+          Size.Width = 375.000000000000000000
+          Size.Height = 667.000000000000000000
+          inherited EvaluatingLayout: TLayout
+            inherited EvaluatingLabel: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+        end
+      end
+      inherited CameraOffButton: TCircle
+        Position.X = 150.000000000000000000
+        Position.Y = 564.000000000000000000
+      end
+      inherited NotHotDogLayout: TLayout
+        Position.Y = 510.000000000000000000
+        Size.Width = 375.000000000000000000
+        inherited NotHotdogCircle: TCircle
+          Size.Width = 375.000000000000000000
+        end
+        inherited Rectangle2: TRectangle
+          Size.Width = 375.000000000000000000
+          inherited NotHotdogLabel: TSkLabel
+            Size.Width = 375.000000000000000000
+          end
+        end
+        inherited NotXLabel: TSkLabel
+          Size.Width = 375.000000000000000000
+        end
+      end
+      inherited HotdogLayout: TLayout
+        Size.Width = 375.000000000000000000
+        inherited HotdogCircle: TCircle
+          Size.Width = 375.000000000000000000
+        end
+        inherited HotdogRectangle: TRectangle
+          Size.Width = 375.000000000000000000
+          inherited HotdogLabel: TSkLabel
+            Size.Width = 375.000000000000000000
+          end
+        end
+        inherited HotdogTickLabel: TSkLabel
+          Size.Width = 375.000000000000000000
+        end
+      end
+    end
+  end
+end

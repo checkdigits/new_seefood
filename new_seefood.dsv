@@ -1,0 +1,80 @@
+﻿[ClosedView_Qzpcdm1zX3NoYXJlXG5ld19zZWVmb29kXGZvcm1zLm1haW5mb3JtLnBhcw==]
+Module=C:\vms_share\new_seefood\forms.mainform.pas
+CursorX=13
+CursorY=74
+TopLine=61
+LeftCol=1
+Elisions=
+Bookmarks={0,108,65}
+EditViewName=C:\vms_share\new_seefood\forms.mainform.pas
+
+[ClosedView_Qzpcdm1zX3NoYXJlXG5ld19zZWVmb29kXG1vZHVsZXMuZHJhZ2dlci5wYXM=]
+Module=C:\vms_share\new_seefood\modules.dragger.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\vms_share\new_seefood\modules.dragger.pas
+[ClosedView_QzpcY29tcHNcQVdTIFNESyBmb3IgRGVscGhpIEF0aGVuc1xTb3VyY2VcQVdTXEFXUy5SZWtvZ25p
+dGlvbi5wYXM=]
+Module=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+CursorX=1
+CursorY=3694
+TopLine=3743
+LeftCol=1
+Elisions={{30,0},{168,11},{'Rekognition Exceptions'}}{{9518,0},{9530,11},{'Rekognition Endpoint Provider'}}{{9532,0},{9604,11},{'Rekognition Request/Response'}}{{9606,0},{14695,11},{'Rekognition Image Request/Response'}}{{17915,0},{20668,11},{'Rekognition Stored Video Request/Response'}}{{20670,0},{20671,11},{'Rekognition Streaming Video Request/Response'}}{{20673,0},{20674,11},{'Rekognition Face Liveness Request/Response'}}{{20676,0},{20973,11},{'Rekognition Tagging Request/Response'}}{{20975,0},{23634,11},{'Rekognition Client'}}{{20996,0},{21807,11},{'Rekognition Image Actions'}}{{21809,0},{22505,11},{'Rekognition Custom Labels Actions'}}{{22507,0},{23203,11},{'Rekognition Stored Video Actions'}}{{23205,0},{23206,11},{'Rekognition Streaming Video Actions'}}{{23208,0},{23209,11},{'Rekognition Face Liveness Actions'}}{{23211,0},{23301,11},{'Rekognition Tagging Actions'}}
+Bookmarks=
+EditViewName=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+
+[ClosedView_Qzpcdm1zX3NoYXJlXG5ld19zZWVmb29kXG1vZHVsZXMuc2V0dGluZ3MucGFz]
+Module=C:\vms_share\new_seefood\modules.settings.pas
+CursorX=9
+CursorY=4
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=
+
+[ClosedView_Qzpcdm1zX3NoYXJlXG5ld19zZWVmb29kXG5ld19zZWVmb29kLmRwcg==]
+Module=C:\vms_share\new_seefood\new_seefood.dpr
+CursorX=5
+CursorY=19
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\vms_share\new_seefood\new_seefood.dpr
+[ClosedView_QzpcY29tcHNcQVdTIFNESyBmb3IgRGVscGhpIEF0aGVuc1xTb3VyY2VcQVdTXEFXUy5SZWtvZ25p
+dGlvbi5wYXM=]
+Module=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+CursorX=1
+CursorY=3694
+TopLine=3709
+LeftCol=1
+Elisions={{30,0},{168,11},{'Rekognition Exceptions'}}{{9518,0},{9530,11},{'Rekognition Endpoint Provider'}}{{9532,0},{9604,11},{'Rekognition Request/Response'}}{{9606,0},{14695,11},{'Rekognition Image Request/Response'}}{{17915,0},{20668,11},{'Rekognition Stored Video Request/Response'}}{{20670,0},{20671,11},{'Rekognition Streaming Video Request/Response'}}{{20673,0},{20674,11},{'Rekognition Face Liveness Request/Response'}}{{20676,0},{20973,11},{'Rekognition Tagging Request/Response'}}{{20975,0},{23634,11},{'Rekognition Client'}}{{20996,0},{21807,11},{'Rekognition Image Actions'}}{{21809,0},{22505,11},{'Rekognition Custom Labels Actions'}}{{22507,0},{23203,11},{'Rekognition Stored Video Actions'}}{{23205,0},{23206,11},{'Rekognition Streaming Video Actions'}}{{23208,0},{23209,11},{'Rekognition Face Liveness Actions'}}{{23211,0},{23301,11},{'Rekognition Tagging Actions'}}
+Bookmarks=
+EditViewName=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+[ClosedView_QzpcY29tcHNcQVdTIFNESyBmb3IgRGVscGhpIEF0aGVuc1xTb3VyY2VcQVdTXEFXUy5SZWtvZ25p
+dGlvbi5wYXM=]
+Module=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+CursorX=1
+CursorY=3694
+TopLine=3709
+LeftCol=1
+Elisions={{30,0},{168,11},{'Rekognition Exceptions'}}{{9518,0},{9530,11},{'Rekognition Endpoint Provider'}}{{9532,0},{9604,11},{'Rekognition Request/Response'}}{{9606,0},{14695,11},{'Rekognition Image Request/Response'}}{{17915,0},{20668,11},{'Rekognition Stored Video Request/Response'}}{{20670,0},{20671,11},{'Rekognition Streaming Video Request/Response'}}{{20673,0},{20674,11},{'Rekognition Face Liveness Request/Response'}}{{20676,0},{20973,11},{'Rekognition Tagging Request/Response'}}{{20975,0},{23634,11},{'Rekognition Client'}}{{20996,0},{21807,11},{'Rekognition Image Actions'}}{{21809,0},{22505,11},{'Rekognition Custom Labels Actions'}}{{22507,0},{23203,11},{'Rekognition Stored Video Actions'}}{{23205,0},{23206,11},{'Rekognition Streaming Video Actions'}}{{23208,0},{23209,11},{'Rekognition Face Liveness Actions'}}{{23211,0},{23301,11},{'Rekognition Tagging Actions'}}
+Bookmarks=
+EditViewName=C:\comps\AWS SDK for Delphi Athens\Source\AWS\AWS.Rekognition.pas
+
+[ClosedView_Qzpcdm1zX3NoYXJlXG5ld19zZWVmb29kXFJFQURNRS5tZA==]
+Module=C:\vms_share\new_seefood\README.md
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\vms_share\new_seefood\README.md
+
